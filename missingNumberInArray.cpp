@@ -3,12 +3,7 @@
 #include <vector>
 using namespace std;
 int MissingNumber(vector<int> &array, int n){
-    sort(array.begin(), array.end());
-    for (int i = 0; i < array.size(); i++){
-        if (array[i] != i + 1)
-            return i + 1;
-    }
-    return n;
+   
 }
 
 int main(){
@@ -17,7 +12,7 @@ int main(){
     cin.tie(NULL);
     int n;
     cin >> n;
-    int m = n - 1;
+    int m = n ;
     vector<int> v;
     int a;
     while (m--){
