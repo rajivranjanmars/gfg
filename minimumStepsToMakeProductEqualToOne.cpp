@@ -2,6 +2,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
+
 int makeProductOne(vector <int>v, int N)
 {
     int c=0 , m=0;
