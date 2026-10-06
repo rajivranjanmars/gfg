@@ -9,4 +9,4 @@ Open a `.cpp` file and compile it with a C++ compiler, adding the problem-specif
 
 ## Author
 
-[rajivranjanmars](https://rajivranjana.in)
+[Rajiv Ranjan](https://rajivranjan.in)
